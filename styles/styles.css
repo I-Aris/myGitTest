@@ -1,0 +1,10 @@
+
+
+body {
+    display:grid;
+}
+
+
+header {
+    grid-area: header;
+}
