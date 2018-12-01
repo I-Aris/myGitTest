@@ -5,11 +5,12 @@
 }
 
 html {
+    
 }
 
 .body-container {
     display: grid;
-    grid-template-columns: 15% 100%;
+    grid-template-columns: 15%;
     grid-template-rows: auto;
     grid-template-areas: 
         "header header header header" 
